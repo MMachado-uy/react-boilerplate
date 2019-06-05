@@ -4,5 +4,4 @@
 2. `npm start`
 3. Profit
 
-PR's are welcome
-Issues are welcome
+PR's and Issues are welcome

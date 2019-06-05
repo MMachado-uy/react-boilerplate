@@ -1,6 +1,6 @@
 {
-  "name": "React-Boilerplate",
-  "version": "1.0.0",
+  "name": "react_boilerplate",
+  "version": "1.0.1",
   "description": "Boilerplate for React project using Sass and Webpack 4",
   "main": "index.js",
   "scripts": {
